@@ -1,0 +1,6 @@
+# 筆記同步必要規則（程式自動加入）
+*
+!.gitignore
+!README.md
+!page*_auto_save.txt
+!settings.json

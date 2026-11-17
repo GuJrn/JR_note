@@ -1,0 +1,21 @@
+{
+    "git_enabled": true,
+    "git_branch": "main",
+    "git_commit_message": "upload by 記事本",
+    "auto_save_interval_sec": 10,
+    "git_check_interval_min": 10,
+    "font_sizes": [
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28
+    ],
+    "font_size_index": 2,
+    "auto_pull_on_startup": true,
+    "page_count": 23
+}
